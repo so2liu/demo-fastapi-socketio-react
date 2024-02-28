@@ -1,4 +1,4 @@
-# A demo for FastAPI, SocketIO, React, and Docker
+# A demo for FastAPI, SocketIO(v4), React, and Docker
 
 This is an example of a full stack application using FastAPI, SocketIO, React, and Docker. I hope this demo can save you some time when you are trying to build a similar application.
 
